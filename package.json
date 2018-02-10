@@ -1,8 +1,8 @@
 {
-  "name": "open-trivia-app",
-  "description": "A single or multiplayer (local) trivia game made with Vue.js .",
+  "name": "physics-trivia-app",
+  "description": "Physics trivia game.",
   "version": "1.0.0",
-  "author": "Christopher Murphy (christopherianmurphy@gmail.com)",
+  "author": "Lei Ma (leima@neutrino.xyz)",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
